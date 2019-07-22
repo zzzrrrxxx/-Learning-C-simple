@@ -6,7 +6,7 @@ This repository is the most basic C++ knowledge.
 In this repository, we start with using C++ to print "helloworld" on the console, and step by step learn the knowledge of C++ programming
 from pointer, generic algorithm and object-oriented.
 
-This tutorial is entirely for beginners, veterans please skip it.
+This tutorial is entirely for beginners, pro please skip it.
 
 Outline:
 1. How to print 1 HelloWorld with C++?
