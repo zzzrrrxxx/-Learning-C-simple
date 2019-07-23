@@ -14,3 +14,7 @@ Outline:
 3. Conditional statement and CIN input
 4. For loop, while loop and do while loop
 5. Making a Simple Software with the Knowledge Learned
+
+
+
+Irregular updates.
